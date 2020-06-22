@@ -1,0 +1,19 @@
+{
+  "name": "traininggithub",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saidaRameley/trainingGithub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saidaRameley/trainingGithub/issues"
+  },
+  "homepage": "https://github.com/saidaRameley/trainingGithub#readme"
+}
